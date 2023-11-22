@@ -4,7 +4,7 @@ REGLA Nº1
 El elemento body tendrá margen 0.
 
 REGLA Nº2
-Para el div que dentro esta el titulo h1 "EL PLUGG 2" debemos poner un id de nombre "header". En la hoja de estilos pondremos una altura de 100vh, la imagen de fondo será EL PLUGG 2 (que esta guardada dentro de la carpeta img), la posición del fondo centrado, tamaño de fondo cubierta y color blanco.
+Para el div que dentro esta el titulo h1 "Ayax: cara y cruz" debemos poner un id de nombre "header". En la hoja de estilos pondremos una altura de 100vh, la imagen de fondo será disco cara y cruz (que esta guardada dentro de la carpeta img), la posición del fondo centrado, tamaño de fondo cubierta y color blanco.
 
 REGLA Nº3
 Al h1 del id header le ponemos color blanco, margen 0, relleno de 0 y 20%, el tamaño de fuente 50 pixeles y para añadirle sombra al texto lo indicamos con sombra negra y de 20 pixeles.
